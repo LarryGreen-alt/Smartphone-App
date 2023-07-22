@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Components",
+    "\\Components\\CarItem",
+    "\\Components\\StyleButton"
   ],
+  "SelectedNode": "\\Components\\CarItem\\index.js",
   "PreviewInSolutionExplorer": false
 }
