@@ -1,10 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\Images",
     "\\Components",
     "\\Components\\CarItem",
-    "\\Components\\StyleButton"
+    "\\Components\\CarsList",
+    "\\Components\\StyledButton"
   ],
-  "SelectedNode": "\\Components\\CarItem\\index.js",
+  "SelectedNode": "\\assets\\Images\\TeslaCar.jpg",
   "PreviewInSolutionExplorer": false
 }
