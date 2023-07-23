@@ -1,9 +1,4 @@
-//<CarItem
-//name = { "Model X"}
-//tagline = { "Order Online for "}
-//taglineCTA = { 'Touchless Delivery'}
-//image = { require('./assets/Images/TeslaCar.jpg') }
- //   />
+// List of cars as a substitute of a database server
 
 export default [
     {
