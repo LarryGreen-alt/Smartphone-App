@@ -1,4 +1,7 @@
-# my-app
+# my-app - Mock Tesla App
+
+![Screenshot (14)](https://github.com/LarryGreen-alt/my-app-Repo/assets/78444835/76869c8f-f5ea-4b56-b8f2-4168ee18d454)
+
 
 # Introduction
 This document outlines the interesting creation process of a Native React smartphone app that I developed using online resources. The project involved combining both soft and hard skills to bring the app to life. Below, I'll discuss the app's concept, the technologies used, and the skills required to accomplish this project.
