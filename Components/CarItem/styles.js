@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
 
     buttonsContainer: {
         position: 'relative',
-        botton: 50,
+        bottom: -360,
         width: '100%',
     }
 
