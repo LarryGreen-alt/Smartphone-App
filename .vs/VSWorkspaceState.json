@@ -4,10 +4,8 @@
     "\\assets",
     "\\assets\\Images",
     "\\Components",
-    "\\Components\\CarItem",
-    "\\Components\\CarsList",
-    "\\Components\\StyledButton"
+    "\\Components\\Header"
   ],
-  "SelectedNode": "\\assets\\Images\\TeslaCar.jpg",
+  "SelectedNode": "\\Components\\Header\\index.js",
   "PreviewInSolutionExplorer": false
 }

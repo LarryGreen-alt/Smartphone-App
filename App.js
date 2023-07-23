@@ -1,3 +1,4 @@
+// This script is a React Native mobile application that renders a list of cars with a header using custom components.
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, View} from 'react-native';
