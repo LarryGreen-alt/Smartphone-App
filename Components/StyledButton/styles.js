@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
     button: {
         backgroundColor: 'white',
         height: 40,
-        borderRaduis: 30,
+        borderRadius: 40,
         justifyContent: 'center',
         alignItems: 'center',
     },
